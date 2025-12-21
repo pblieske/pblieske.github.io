@@ -2,7 +2,7 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+description: 
 nav: true
 nav_order: 6
 ---
@@ -11,6 +11,6 @@ nav_order: 6
 
 <ul>
   <li>Infectious Disease Dynamics (TA) </li>
-  <li>Seminar in Evolutionary Ecology of Infectious Diseases (TA) <li>
+  <li>Seminar in Evolutionary Ecology of Infectious Diseases (TA) </li>
   <li>Seminar Environmental Biology (TA) </li>
 </ul>
