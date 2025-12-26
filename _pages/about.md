@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: PhD Student in Theoretical Biology, interested in antimicrobial resistance, epidemiology, causal inference, and mathematical modelling.
+subtitle: PhD student in Theoretical Biology, interested in antimicrobial resistance, epidemiology, causal inference, and mathematical modelling.
 
 profile:
   align: right
