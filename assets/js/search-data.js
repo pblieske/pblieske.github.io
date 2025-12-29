@@ -42,11 +42,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-deployed-my-new-webpage",
-          title: 'Deployed my new webpage!',
-          description: "",
-          section: "News",},{id: "news-reviewing-for-plos-computational-biology",
+            },},{id: "news-reviewing-for-plos-computational-biology",
           title: 'Reviewing for PLOS Computational Biology.',
+          description: "",
+          section: "News",},{id: "news-deployed-my-new-webpage",
+          title: 'Deployed my new webpage!',
           description: "",
           section: "News",},{id: "projects-upcoming",
           title: 'Upcoming',
