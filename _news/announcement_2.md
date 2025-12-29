@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Reviewing for [Plos Computational Biology](https://journals.plos.org/ploscompbiol/).
+Reviewing for [PLOS Computational Biology](https://journals.plos.org/ploscompbiol/).
