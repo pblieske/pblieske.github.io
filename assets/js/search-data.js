@@ -51,8 +51,8 @@ ninja.data = [{
           section: "News",},{id: "news-i-m-going-to-give-a-smee-talk-on-the-13-may",
           title: 'I’m going to give a SMEE talk on the 13. May!',
           description: "",
-          section: "News",},{id: "projects-upcoming",
-          title: 'Upcoming',
+          section: "News",},{id: "projects-ampc-expression-upcoming",
+          title: 'AmpC expression - Upcoming',
           description: "with background image",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
