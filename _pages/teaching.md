@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /teaching/
-title: teaching
+title: Teaching
 description: 
 nav: true
 nav_order: 6
@@ -14,6 +14,4 @@ nav_order: 6
 - [Seminar Environmental Biology](https://www.vvz.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?semkez=2025W&ansicht=ALLE&lerneinheitId=193684&lang=en) (Autumn 2025)
 
 
-<!--- ## Thesis
-
-If you want to write your bachelor, master thesis or semester project with me, contact me! (e-mail: pio.blieske [at] env.ethz.ch.) -->
+## Supervision
