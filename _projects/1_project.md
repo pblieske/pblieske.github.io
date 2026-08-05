@@ -8,5 +8,9 @@ category: work
 related_publications: false
 ---
 
-<iframe src="/assets/pdf/ampc_poster-4.pdf" width="100%" height="800px">
-</iframe>
+
+<object data="/assets/pdf/ampc_poster-4.pdf" type="application/pdf" width="100%" height="800px">
+  <p>Your browser does not support PDFs. 
+     <a href="/assets/pdf/ampc_poster-4.pdf">Download the PDF</a>.
+  </p>
+</object>
