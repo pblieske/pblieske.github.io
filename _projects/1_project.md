@@ -8,6 +8,10 @@ category: work
 related_publications: true
 ---
 
+<iframe src="/assets/pdf/mapmc_poster-4.pdf" width="100%" height="800px">
+</iframe>
+
+<! --
 Every project has a beautiful feature showcase page.
 It's easy to include images in a flexible 3-column grid format.
 Make your photos 1/3, 2/3, or full width.
@@ -79,3 +83,5 @@ Here's the code for the last row of images above:
 ```
 
 {% endraw %}
+
+--›
