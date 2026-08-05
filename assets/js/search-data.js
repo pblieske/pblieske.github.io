@@ -53,7 +53,7 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "projects-ampc-expression-upcoming",
           title: 'AmpC expression - Upcoming',
-          description: "with background image",
+          description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
             },},{
