@@ -8,5 +8,5 @@ category: work
 related_publications: true
 ---
 
-<iframe src="/assets/pdf/apmpc_poster-4.pdf" width="100%" height="800px">
+<iframe src="/assets/pdf/ampc_poster-4.pdf" width="100%" height="800px">
 </iframe>
