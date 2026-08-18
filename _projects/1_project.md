@@ -9,8 +9,8 @@ related_publications: false
 ---
 
 
-<object data="/assets/pdf/ampc_poster-4.pdf" type="application/pdf" width="100%" height="800px">
+<object data="/assets/pdf/ampc_poster.pdf" type="application/pdf" width="100%" height="800px">
   <p>Your browser does not support PDFs. 
-     <a href="/assets/pdf/ampc_poster-4.pdf">Download the PDF</a>.
+     <a href="/assets/pdf/ampc_poster.pdf">Download the PDF</a>.
   </p>
 </object>
