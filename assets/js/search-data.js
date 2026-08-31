@@ -51,8 +51,8 @@ ninja.data = [{
           section: "News",},{id: "news-we-will-present-a-poster-at-iscb-gmds-on-treatment-effects-of-antimicrobials-and-chromosomal-ampc-expression",
           title: 'We will present a poster at ISCB GMDS on treatment effects of antimicrobials...',
           description: "",
-          section: "News",},{id: "projects-ampc-expression-upcoming",
-          title: 'AmpC expression - Upcoming',
+          section: "News",},{id: "projects-ampc-expression",
+          title: 'AmpC expression',
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
